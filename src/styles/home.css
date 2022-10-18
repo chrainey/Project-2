@@ -1,0 +1,14 @@
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-container {
+  padding: 30px;
+  border-radius: 8px;
+}
+
+#dropDown {
+  background-color: black;
+}/*# sourceMappingURL=home.css.map */

@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+  color: antiquewhite;
+}
+
+.site-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.site-wrapper main {
+  flex-grow: 1;
+  padding-top: 20px;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../Images/photo-1572116469696-31de0f17cc34.avif);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.hero .hero-container {
+  padding: 30px;
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+nav {
+  background: rgb(129, 98, 7);
+}
+
+.container {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+input {
+  height: 50px;
+}
+
+#dropDown {
+  color: rgb(129, 98, 7);
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+#randbtn {
+  border-color: beige;
+  color: beige;
+}
+
+p {
+  color: rgb(129, 98, 7);
+  text-decoration: none;
+}
+
+.drinkCard {
+  min-height: 100vh;
+  background-image: url(../Images/photo-1572116469696-31de0f17cc34.avif);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+}
+
+.list-container {
+  padding-top: 20px;
+  margin-top: 20px;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.list-wrapper {
+  background-image: url(../Images/fancylights.avif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.list-card {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+a {
+  text-decoration: none;
+}
+
+.lead {
+  color: antiquewhite;
+}/*# sourceMappingURL=main.css.map */
