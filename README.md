@@ -43,7 +43,7 @@ We took a look at numerous cocktails from the API and decided to use a list of 1
 
 Wireframe:
 
-![Excalidraw Plan](/Project2-API/src/Images/Excalidraw.png)
+![Excalidraw Plan](/src/Images/Excalidraw.png)
 
 ## Build
 
@@ -90,7 +90,7 @@ const Home = () => {
   )
 }
 ```
-![Homepage Image](../Project2-API/src/Images/Homepage.png)
+![Homepage Image](/src/Images/Homepage.png)
 
 CocktailList.js:
 
@@ -159,7 +159,7 @@ const CocktailList = () => {
 
 export default CocktailList
 ```
-![Cocktail List](../Project2-API/src/Images/cocktaillist.png)
+![Cocktail List](/src/Images/cocktaillist.png)
 
 CocktailSingle.js:
 
@@ -244,7 +244,7 @@ const CocktailSingle = () => {
 
 export default CocktailSingle
 ```
-![Single Cocktail image](../Project2-API/src/Images/cocktailimage.png)
+![Single Cocktail image](/src/Images/cocktailimage.png)
 
 RandomDrink.js
 
